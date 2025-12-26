@@ -1,4 +1,3 @@
-
 class BankAccount {
   String accountNumber;
   String accountHolder;
